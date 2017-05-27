@@ -9,7 +9,7 @@
     <asp:Image ID="Image1" runat="server" ImageUrl="~/images/logovencedores2.png" />
     
     <h2>
-        <%--Bienvenido al nuevo sistema de inventario de su empresa!--%>
+        <%--Bienvenido al nuevo sistema de inventario de su empresa Radiadores Vencedores!--%>
     </h2>
     <p>
         <%--Por favor entre al sistema utilizando su usuario y contraseña--%>
